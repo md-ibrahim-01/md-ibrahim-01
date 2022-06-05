@@ -1,17 +1,17 @@
-# Hi there 👋
+# Hi there 👋, my name md ibrahim
+## Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**md-ibrahim-01/md-ibrahim-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Still learning web development. Learner at Programming Hero.
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS/Mongodb/firebase/bootstrap/tailwind/node js/ES6
 
-- 👋 Hi, I’m @Md Ibrahim
-- 👀 I’m interested in Travelling
-- 🌱 I’m currently learning and working with React Js
-- 💞️ I’m looking to collaborate on teach happiness
-- 📫 How to reach me: Facebook: https://www.facebook.com/md.ibrahim.contact/
-- 📫 How to reach me: Twitter: https://twitter.com/_md_ibrahim_m
-- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/mdibrahimcontact/
-- 📫 How to reach me: Email: md.ibrahim8269@gmail.com
-- 📫 How to reach me: Phone: +8801782642204
->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning javascript 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/md-ibrahim-01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdibrahimcontact//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.ibrahim.contact/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_md_ibrahim_m)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/md-ibrahim-01)  
