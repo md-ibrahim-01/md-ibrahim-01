@@ -1,6 +1,6 @@
 # Hi there 👋, my name md ibrahim
 ## Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer][(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)](https://media-exp1.licdn.com/dms/image/C5603AQFil5l0QcBJLA/profile-displayphoto-shrink_200_200/0/1643985498159?e=1660176000&v=beta&t=KmsDHXwj1xwXGnJT0biciV7fos1Pn9s3jkcE0ejbDHY)
 
 Still learning web development. Learner at Programming Hero.
 
